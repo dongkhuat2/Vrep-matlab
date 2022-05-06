@@ -41,4 +41,6 @@ Cac file plot ... .m dung de ve duong di cua robot va cac sai so.
  
 vrepmatlap.mlapp la giao dien GUI duoc thiet ke bang APP Designer cua Matlab 
 
+Co the su dung truc tiep GUI de dieu khien truc tiep co thuat toan tren Vrep
+
 
